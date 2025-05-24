@@ -51,11 +51,6 @@ button {
     border: none;
 }
 
-img {
-    background-color: #1F2937;
-}
-
-
 .hero {
     display: flex;
     align-items: center;
