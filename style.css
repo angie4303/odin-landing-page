@@ -61,7 +61,7 @@ button {
 
 .container.second {
     text-align: center;
-    padding: 30px 300px;
+    padding: 40px 300px;
 }
 
 .content {
@@ -88,4 +88,23 @@ button {
     height: 150px;
     border-radius: 13px;
     margin-bottom: 8px;
+}
+
+.container.third {
+    padding: 50px;
+    background-color: #E5E7EB;
+    padding: 100px 300px;
+}
+
+.third .quote {
+    color: #1F2937;
+   font-style: italic;
+   font-size: 36px;
+   margin: 0;
+   padding: 0;
+}
+
+#author {
+    font-weight: bold;
+    text-align: right;
 }
