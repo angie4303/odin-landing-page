@@ -5,12 +5,12 @@ body {
     flex-direction: column;
 }
 
-.container.first{
+.container.first {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
     color: #F9FAF8;
-    padding: 15px 300px;
+    padding: 25px 300px;
 }
 
 .header {
@@ -126,4 +126,11 @@ button {
 
 .content button {
     border: 2px solid white;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 25px 300px;
+    text-align: center;
 }
